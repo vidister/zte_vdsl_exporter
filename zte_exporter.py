@@ -1,7 +1,6 @@
 import requests
 import hashlib
 import re
-from bs4 import BeautifulSoup
 from prometheus_client import start_http_server
 from prometheus_client.core import GaugeMetricFamily, REGISTRY
 from time import sleep
