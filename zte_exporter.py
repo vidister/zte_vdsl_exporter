@@ -41,6 +41,9 @@ mappings = {
     "CurrentProfile": {
         "17a": 1,
         "35b": 2,
+    },
+    "Link_retrain": {
+        "0,0": 1
     }
 }
 
